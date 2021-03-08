@@ -1,0 +1,20 @@
+{
+  "name": "lesson2_nodeaframeintro",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aframe-event-set-component": "^5.0.0",
+    "aframe-play-sound-on-event": "^1.0.3",
+    "express": "^4.17.1",
+    "socket.io": "^3.1.2",
+    "socket.io-client": "^3.1.2",
+    "super-hands": "^3.0.2"
+  },
+  "devDependencies": {},
+  "description": "I created a Virtual reality environment with an antique theme in mind. What I was planning to do but could not do given the time constraints that I had is that I wanted \r to allow the user to play music and close the music everytime they press on the Gramophone. Also i wanted to allow them to pick up the magnifier and put it back along with \r zoom in on objects."
+}
